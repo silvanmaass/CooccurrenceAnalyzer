@@ -1,7 +1,4 @@
-1. Installiere die Bibliotheken mit Composer:
-
-- composer require php-nlp-tools/php-nlp-tools
-- composer require nlp-tools/nlp-tools graphp/graphviz
+1. Installiere die Bibliotheken mit Composer: composer require nlp-tools/nlp-tools graphp/graphviz
 
 2. Speichere den PHP-Code in einer Datei (z.B. CooccurrenceAnalyzer.php) und führe das Skript über die PHP-Kommandozeile oder in einem Webserver-Umfeld aus.
 
