@@ -1,8 +1,13 @@
-1. Installiere die PHP-NLTK-Bibliothek mit Composer: composer require php-nlp-tools/php-nlp-tools
+1. Installiere die Bibliotheken mit Composer:
 
-2. Nutze die analyzer.php
+- composer require php-nlp-tools/php-nlp-tools
+- composer require nlp-tools/nlp-tools graphp/graphviz
 
-3. Anwendungsbereiche:
+2. Speichere den PHP-Code in einer Datei (z.B. CooccurrenceAnalyzer.php) und führe das Skript über die PHP-Kommandozeile oder in einem Webserver-Umfeld aus.
+
+3. Stelle sicher, dass die Textdatei, die du analysieren möchtest, unter dem angegebenen Pfad (path/to/textfile.txt) verfügbar ist.
+
+4. Anwendungsbereiche:
 
 - Sprachwissenschaftliche Forschung: Linguisten können das Tool verwenden, um Muster von Wortkombinationen in Texten zu analysieren und linguistische Erkenntnisse zu gewinnen.
 
